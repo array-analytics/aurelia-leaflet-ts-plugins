@@ -1,0 +1,5 @@
+show-text {
+  border: dashed darkblue 1px;
+  text-align: center; }
+  show-text .bolder-text {
+    font-weight: bold; }
